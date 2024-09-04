@@ -1,1 +1,3 @@
-alpha gamma
+alpha gamma 
+
+bet gamm adelta
